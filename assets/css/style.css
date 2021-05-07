@@ -1,0 +1,15 @@
+#user_list,
+#income_list,
+#expenses_list {
+    display: none;
+}
+
+#userBirthdate {
+    text-align: center !important;
+    padding: 0 !important;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
